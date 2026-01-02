@@ -1,0 +1,161 @@
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\bin\Debug\MusicHub.exe.config
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\bin\Debug\MusicHub.exe
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\bin\Debug\MusicHub.pdb
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.Properties.Resources.resources
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.exe
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.pdb
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.Electric.resources
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.Home.resources
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.Electric2.resources
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.Electric3.resources
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.Electric4.resources
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.Electric5.resources
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.ElectricBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.ElectricBuy2.resources
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.ElectricBuy3.resources
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.ElectricBuy4.resources
+C:\Users\User\OneDrive - NSBM\Desktop\NSBM\C# 2\MusicHub\obj\Debug\MusicHub.ElectricBuy5.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\bin\Debug\MusicHub.exe.config
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\bin\Debug\MusicHub.exe
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\bin\Debug\MusicHub.pdb
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Electric.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Electric2.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Electric3.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Electric4.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Electric5.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.ElectricBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.ElectricBuy2.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.ElectricBuy3.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.ElectricBuy4.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.ElectricBuy5.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Home.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.HomeLocked.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Properties.Resources.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Registration.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.exe
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.pdb
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Acoustic1.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Acoustic2.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Acoustic3.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Acoustic4.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Acoustic5.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.AcousticBuy1.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.AcousticBuy2.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.AcousticBuy3.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.AcousticBuy4.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.AcousticBuy5.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Capo.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.CapoBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.GuitarPolisher.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.GuitarPolisherBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.LockingTuner.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.LockingTunerBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.SoftCase.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.SoftCaseBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Strings.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.StringsBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Recipt.resources
+C:\Users\User\OneDrive - NSBM\Desktop\C# 2\MusicHub\obj\Debug\MusicHub.Contact.resources
+E:\Final_System\MusicHub\bin\Debug\MusicHub.exe.config
+E:\Final_System\MusicHub\bin\Debug\MusicHub.exe
+E:\Final_System\MusicHub\bin\Debug\MusicHub.pdb
+E:\Final_System\MusicHub\obj\Debug\MusicHub.csproj.AssemblyReference.cache
+E:\Final_System\MusicHub\obj\Debug\MusicHub.csproj.SuggestedBindingRedirects.cache
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Acoustic1.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Acoustic2.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Acoustic3.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Acoustic4.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Acoustic5.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.AcousticBuy1.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.AcousticBuy2.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.AcousticBuy3.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.AcousticBuy4.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.AcousticBuy5.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Capo.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.CapoBuy.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Contact.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Electric.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Electric2.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Electric3.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Electric4.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Electric5.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.ElectricBuy.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.ElectricBuy2.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.ElectricBuy3.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.ElectricBuy4.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.ElectricBuy5.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.GuitarPolisher.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.GuitarPolisherBuy.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Home.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.HomeLocked.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.LockingTuner.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.LockingTunerBuy.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Properties.Resources.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Recipt.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Registration.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.SoftCase.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.SoftCaseBuy.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.Strings.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.StringsBuy.resources
+E:\Final_System\MusicHub\obj\Debug\MusicHub.csproj.GenerateResource.cache
+E:\Final_System\MusicHub\obj\Debug\MusicHub.csproj.CoreCompileInputs.cache
+E:\Final_System\MusicHub\obj\Debug\MusicHub.exe
+E:\Final_System\MusicHub\obj\Debug\MusicHub.pdb
+E:\Final_System\MusicHub\obj\Debug\MusicHub.DataGridView.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\bin\Debug\MusicHub.exe.config
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\bin\Debug\MusicHub.exe
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\bin\Debug\MusicHub.pdb
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Acoustic1.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Acoustic2.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Acoustic3.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Acoustic4.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Acoustic5.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.AcousticBuy1.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.AcousticBuy2.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.AcousticBuy3.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.AcousticBuy4.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.AcousticBuy5.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Capo.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.CapoBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Contact.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.DataGridView.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Electric.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Electric2.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Electric3.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Electric4.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Electric5.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.ElectricBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.ElectricBuy2.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.ElectricBuy3.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.ElectricBuy4.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.ElectricBuy5.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.GuitarPolisher.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.GuitarPolisherBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Home.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.HomeLocked.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.LockingTuner.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.LockingTunerBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Properties.Resources.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Recipt.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Registration.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.SoftCase.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.SoftCaseBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.Strings.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.StringsBuy.resources
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.exe
+C:\Users\User\OneDrive - NSBM\Desktop\Final_System\MusicHub\obj\Debug\MusicHub.pdb
+E:\Final_System\MusicHub\bin\Debug\GunuccoSharp.dll
+E:\Final_System\MusicHub\bin\Debug\Newtonsoft.Json.dll
+E:\Final_System\MusicHub\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Final_System\MusicHub\bin\Debug\Newtonsoft.Json.xml
+E:\Final_System\MusicHub\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Final_System\MusicHub\obj\Debug\MusicHub.csproj.CopyComplete
